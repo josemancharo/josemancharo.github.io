@@ -1,6 +1,6 @@
 {
-  "name": "JoseMancharoSite",
-  "short_name": "JoseMancharoSite",
+  "name": "BlazorWasm",
+  "short_name": "BlazorWasm",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
